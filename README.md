@@ -20,6 +20,7 @@ These are the technologies I can use.
   <tr>
     <td>
       <img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white"/>
     </td>
   </tr>
