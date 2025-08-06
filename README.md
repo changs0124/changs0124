@@ -20,7 +20,7 @@ These are the technologies I can use.
   <tr>
     <td>
       <img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
-      <img src="https://https://img.shields.io/badge/Electron?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
     </td>
   </tr>
   <tr>
