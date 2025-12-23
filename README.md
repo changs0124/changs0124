@@ -1,4 +1,4 @@
-<h1 align="center">🌊 Changhae Seong</h1>
+<h1 align="center">Changhae Seong</h1>
 <p align="center">
   Full-Stack Developer · Web / Desktop / Mobile
 </p>
