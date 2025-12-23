@@ -15,7 +15,7 @@ These are the technologies I can use.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: 700;">Web Front-End</td>
+    <td style="font-weight: 700;">Front-End</td>
   </tr>
   <tr>
     <td>
@@ -25,7 +25,7 @@ These are the technologies I can use.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: 700;">Web Back-End</td>
+    <td style="font-weight: 700;">Back-End</td>
   </tr>
   <tr>
     <td>
@@ -38,6 +38,7 @@ These are the technologies I can use.
   <tr>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
     </td>
   </tr>
 </table>
