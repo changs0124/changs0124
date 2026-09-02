@@ -1,9 +1,14 @@
-## 창해 Changhae Seong
+## Changhae Seong
 
-<div align="center">반복되는 일은 사람 대신 코드가 하게 만드는 개발자를 지향합니다.</div>
+<div align="center">
 
-### 🛠 Tech Stack 🛠
-These are the technologies I can use.
+haeya0124@gmail.com
+
+I aim to make code do the work that people keep repeating.
+
+</div>
+
+### Stack
 
 <div align="center">
 
@@ -21,54 +26,52 @@ These are the technologies I can use.
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 
-<b>DataBase</b><br/>
+<b>Database</b><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
 
 </div>
 
-### 📂 Projects 📂
-대부분 비공개 저장소라 링크는 걸지 않았습니다.
+### Projects
+
+Most of these live in private repositories, so they are not linked.
 
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <b>spec-quote</b><br/><br/>
-      스캔된 시방서를 AI로 읽어 사내 양식을 채우고 제조원가표를 자동 생성하는 데스크톱 앱.<br/><br/>
+      Desktop app that reads scanned specification documents with AI, fills in the in-house spec sheet, and generates the manufacturing cost table.<br/><br/>
       <sub><code>Electron</code> <code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Claude API</code></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <b>predix-studio</b><br/><br/>
-      학습된 모델을 그대로 열어 추론·시각화하는 데스크톱 앱. 모델 계약을 매니페스트로 기술해 새 모델을 붙일 때 앱을 고치지 않습니다.<br/><br/>
+      Desktop app that opens trained models as they are for inference and 3D visualization. The model contract lives in a manifest, so adding a model needs no change to the app.<br/><br/>
       <sub><code>Electron</code> <code>TypeScript</code> <code>FastAPI</code> <code>PyTorch</code> <code>ONNX</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <b>rag-chatbot</b><br/><br/>
-      GPT-4o + Vector Store 기반 RAG 챗봇. 답변에 항상 출처를 붙이고, 자료가 없으면 그 사실을 먼저 밝힙니다.<br/><br/>
+      RAG chatbot on GPT-4o and a vector store. Every answer carries its sources, and when nothing is found it says so first.<br/><br/>
       <sub><code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <b>dinsight-renew</b> · <a href="https://dinsight.kr">dinsight.kr</a><br/><br/>
-      버추얼 트윈·AI 솔루션 기업 사이트. 라우트별 정적 HTML을 빌드에서 찍어 JS를 실행하지 않는 검색엔진에도 본문이 노출됩니다.<br/><br/>
+      <b>dinsight-renew</b><br/><br/>
+      Corporate site for virtual twin and AI solutions. Static HTML is emitted per route at build time, so the content is readable by crawlers that do not run JavaScript.<br/><br/>
       <sub><code>React 19</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Vercel</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <b>catia-v5-mcp-server</b><br/><br/>
-      CATIA V5를 MCP로 자동화하는 COM 브리지. 만든 형상을 실제 CATIA에서 측정해 검증하는 회귀 테스트를 함께 둡니다.<br/><br/>
+      COM bridge that drives CATIA V5 over MCP, with a regression suite that measures the geometry it builds inside live CATIA.<br/><br/>
       <sub><code>Python</code> <code>MCP</code> <code>COM Automation</code> <code>CATIA V5</code></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <b>HydroTwin</b><br/><br/>
-      OpenModelica로 계산한 상수도 급수 시뮬레이션을 브라우저에서 3D로 시각화하는 데모.<br/><br/>
+      Browser demo that visualizes an OpenModelica water supply simulation in 3D.<br/><br/>
       <sub><code>React Three Fiber</code> <code>three.js</code> <code>TypeScript</code> <code>OpenModelica</code></sub>
     </td>
   </tr>
 </table>
-
-### 📧 haeya0124@gmail.com
-This is an email address that you can contact. 🙂
