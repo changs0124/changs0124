@@ -1,51 +1,32 @@
 ## 창해 Changhae Seong
 
-제조·엔지니어링 도메인에 CAD 자동화와 AI를 붙이는 일을 합니다.
+<div align="center">제조·엔지니어링 도메인에 CAD 자동화와 AI를 붙이는 일을 합니다.</div>
 
 ### 🛠 Tech Stack 🛠
 These are the technologies I can use.
 
-<table width="100%">
-  <tr>
-    <td align="center"><b>Language</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Front-End</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
-      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-      <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Back-End</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DataBase</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<b>Language</b><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+<b>Front-End</b><br/>
+<img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white"/>
+
+<b>Back-End</b><br/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+
+<b>DataBase</b><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
+
+</div>
 
 ### 📂 Projects 📂
 대부분 비공개 저장소라 링크는 걸지 않았습니다.
