@@ -1,6 +1,6 @@
 ## 창해 Changhae Seong
 
-<div align="center">제조·엔지니어링 도메인에 CAD 자동화와 AI를 붙이는 일을 합니다.</div>
+<div align="center">반복되는 일은 사람 대신 코드가 하게 만드는 개발자를 지향합니다.</div>
 
 ### 🛠 Tech Stack 🛠
 These are the technologies I can use.
