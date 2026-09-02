@@ -1,39 +1,53 @@
-## Changhae Seong
-
 <div align="center">
-
-haeya0124@gmail.com
-
-I aim to make code do the work that people keep repeating.
-
+  <br/>
+  <h1>Changhae Seong</h1>
+  <p>Developer &nbsp;&nbsp;·&nbsp;&nbsp; CAD Automation &nbsp;&nbsp;·&nbsp;&nbsp; AI Integration</p>
+  <p>
+    <a href="mailto:haeya0124@gmail.com"><img src="https://img.shields.io/badge/-haeya0124%40gmail.com-000?style=flat-square&logo=gmail&logoColor=white"/></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/-Changwon,_Korea-000?style=flat-square"/>
+  </p>
+  <br/>
 </div>
 
-### Stack
+---
 
-<div align="center">
+I build desktop and web tools for manufacturing and engineering work — CAD automation,
+simulation visualization, and AI that reads the documents people would otherwise retype.
 
-<b>Language</b><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+Currently working on **spec-quote** (AI spec-sheet reader that generates manufacturing cost tables)
+and **catia-v5-mcp-server** (CATIA V5 automation over MCP).
 
-<b>Front-End</b><br/>
-<img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white"/>
+<br/>
 
-<b>Back-End</b><br/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+## Stack
 
-<b>Database</b><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
+**Languages**
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 
-### Projects
+**Frontend**
+
+![React](https://img.shields.io/badge/React-222?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-222?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=fff)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=fff)
+
+<br/>
+
+## Projects
 
 Most of these live in private repositories, so they are not linked.
 
@@ -63,3 +77,13 @@ Most of these live in private repositories, so they are not linked.
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+<div align="center">
+  <br/>
+  <sub>haeya0124@gmail.com &nbsp;·&nbsp; Changwon, South Korea</sub>
+  <br/><br/>
+</div>
