@@ -7,14 +7,12 @@
   <p>
     <a href="mailto:haeya0124@gmail.com">haeya0124@gmail.com</a>
   </p>
+  <p>
+    <sub><b>Now</b> &nbsp;·&nbsp; CATIA MCP servers &nbsp;—&nbsp; one shared core, one package per product</sub>
+  </p>
 </div>
 
 ---
-
-Currently working on the **CATIA MCP servers** — a shared core of 115 tools over COM, with one
-package bound to CATIA V5 and one to 3DEXPERIENCE.
-
-<br/>
 
 ## Stack
 
