@@ -11,8 +11,8 @@
 
 ---
 
-Currently working on **spec-quote**, an AI spec-sheet reader that turns scanned documents into
-manufacturing cost tables, and **catia-v5-mcp-server**, which drives CATIA V5 over MCP.
+Currently working on the **CATIA MCP servers** — a shared core of 115 tools over COM, with one
+package bound to CATIA V5 and one to 3DEXPERIENCE.
 
 <br/>
 
@@ -61,26 +61,26 @@ Most of these live in private repositories, so they are not linked.
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <b>spec-quote</b><br/><br/>
-      Desktop app that reads scanned specification documents with AI, fills in the in-house spec sheet, and generates the manufacturing cost table.<br/><br/>
-      <sub><code>Electron</code> <code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Claude API</code></sub>
+      <b>catia-mcp-core</b><br/><br/>
+      The half both CATIA servers share: 115 tools, the MCP transport, and the COM machinery. It names no product and cannot connect on its own, so the two products cannot drift apart in a copied tool.<br/><br/>
+      <sub><code>Python</code> <code>MCP</code> <code>COM Automation</code></sub>
     </td>
+    <td width="50%" align="center" valign="top">
+      <b>catia-v5-mcp &nbsp;·&nbsp; catia-3dx-mcp</b><br/><br/>
+      The product halves over that core — one connects to CATIA V5, the other to 3DEXPERIENCE. Each is bound to its product rather than deciding at runtime, and the regression suites measure the geometry they build inside a live session.<br/><br/>
+      <sub><code>Python</code> <code>MCP</code> <code>CATIA V5</code> <code>3DEXPERIENCE</code></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <b>rag-chatbot</b><br/><br/>
       RAG chatbot on GPT-4o and a vector store. Every answer carries its sources, and when nothing is found it says so first.<br/><br/>
       <sub><code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <b>dinsight-renew</b><br/><br/>
       Corporate site for virtual twin and AI solutions. Static HTML is emitted per route at build time, so the content is readable by crawlers that do not run JavaScript.<br/><br/>
       <sub><code>React 19</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Vercel</code></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>catia-v5-mcp-server</b><br/><br/>
-      COM bridge that drives CATIA V5 over MCP, with a regression suite that measures the geometry it builds inside live CATIA.<br/><br/>
-      <sub><code>Python</code> <code>MCP</code> <code>COM Automation</code> <code>CATIA V5</code></sub>
     </td>
   </tr>
 </table>
