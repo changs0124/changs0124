@@ -48,6 +48,14 @@
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=fff"/>
     </td>
   </tr>
+  <tr>
+    <td width="180" align="center"><b>Infra</b></td>
+    <td width="900" align="left">
+      <img src="https://img.shields.io/badge/AWS_Lightsail-232F3E?style=flat-square&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff"/>
+    </td>
+  </tr>
 </table>
 
 <br/>
